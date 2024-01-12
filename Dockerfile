@@ -1,5 +1,5 @@
 FROM ubuntu
 
-RUN mkdir /blackboxbound
+RUN mkdir /blackboxsound
 
 COPY ./ /blackboxsound
